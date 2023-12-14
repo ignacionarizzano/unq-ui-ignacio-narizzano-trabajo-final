@@ -1,0 +1,19 @@
+
+.ship {
+  display: flex;
+}
+
+.ship-segment {
+  width: 30px;
+  height: 30px;
+  background-color: gray;
+  margin: 1px;
+}
+
+.horizontal {
+  flex-direction: row;
+}
+
+.vertical {
+  flex-direction: column;
+}
